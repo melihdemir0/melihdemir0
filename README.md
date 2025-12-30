@@ -90,7 +90,6 @@ Backend microservices and APIs focusing on:
 
 ## 📫 Contact
 
-- GitHub: https://github.com/melihdemir0
 - Email: melihdemirr0@gmail.com
 
 ---
