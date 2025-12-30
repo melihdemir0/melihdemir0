@@ -55,6 +55,8 @@ Role-based CRM application with leads, customers, and activity tracking.
 - Frontend: React, TypeScript, Material UI
 - Features: authentication, ownership-based access control, admin bypass
 
+🔗 https://github.com/melihdemir0/crm-project
+
 ---
 
 ### 📄 CV Builder (Full-Stack)
@@ -64,6 +66,8 @@ Multi-step CV builder application with AI-generated introduction text and PDF ex
 - React frontend
 - PostgreSQL database
 - AI-based text generation integration
+
+🔗 https://github.com/melihdemir0/cv-builder-app
 
 ---
 
